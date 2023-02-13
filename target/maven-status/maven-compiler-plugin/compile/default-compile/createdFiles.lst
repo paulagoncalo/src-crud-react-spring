@@ -1,0 +1,4 @@
+org\lpc\controller\ClientController.class
+org\lpc\repository\ClientRepository.class
+org\lpc\entities\ClientEntity.class
+org\lpc\App.class
